@@ -5,71 +5,27 @@
 This is a simple 3D game where a squirrel is wondering for food to be survived, this simple game is built with unity game engine and programmed with unity visual scripting tool.
 
 
-
-
-![IMAGE](github-readme-contents/banner.jpg)
+![IMAGE](github-readme-contents/banner-image.jpg)
 
 
 ## Technology and Frameworks
 
-- Python 3.6
-- pyttsx3
-- speech_recognition
-- soundfile
-- imutils
-- pygame
+- Unity Editor 2021.3.5f1 or higher
 
-## Configuration & Setup
+## Open Project
 
-- Install pyttsx3
+```
+hungry-squirrel\0-source
 
-  ```
-  pip install pyttsx3
-  ```
+```
 
-- Install speechRecognition
+- Open the 0-source folder in unity editor,
 
-  ```
-  pip install SpeechRecognition
-  ```
+![IMAGE](github-readme-contents/open-project.jpg)
 
-- Install soundfile
+## Demo
 
-  ```
-  pip install soundfile
-  ```
-
-- Install imutils
-
-  ```
-  pip install imutils
-  ```
-
-- Install pygame
-
-  ```
-  pip install pygame
-  ```
-
-
-## Execution
-
-  ```
-  python run.py
-  ```
-
-## Outputs
-
-![IMAGE](github-readme-contents/demo1.jpg)
-
-![IMAGE](github-readme-contents/demo2.jpg)
-
-![IMAGE](github-readme-contents/demo3.jpg)
-
-
-## Reference
-
-![IMAGE](github-readme-contents/making.jpg)
+![IMAGE](github-readme-contents/demo.gif)
 
 ## Social Media Links
 
