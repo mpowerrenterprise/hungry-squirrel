@@ -1,4 +1,4 @@
-#  Squirrel
+# Hungry Squirrel
 
 ## Introduction
 
