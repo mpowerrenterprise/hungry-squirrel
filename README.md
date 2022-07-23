@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple 3D game where a squirrel is wondering for food to be survived, this simple game is built with unity game engine and programmed with unity visual scripting tool.
+This is a simple 3D game where a squirrel is wandering for food to be survived, this simple game is built with unity game engine and programmed with unity visual scripting tool.
 
 
 ![IMAGE](github-readme-contents/banner-image.jpg)
