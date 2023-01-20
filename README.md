@@ -2,7 +2,11 @@
 
 ## Introduction
 
-This is a simple 3D game where a squirrel is wandering for food to be survived, this simple game is built with unity game engine and programmed with unity visual scripting tool.
+Welcome to  Hungry Squirrel, a simple yet challenging 3D game that takes you on an adventure as a hungry squirrel is wandering for food to be survived, struggling to survive in the forest. The game is built using Unity, a widely-used game engine, and programmed with Unity's visual scripting tool, providing a seamless and engaging gaming experience.
+
+As the squirrel, you must navigate through the beautifully rendered forest environment in search of food, such as acorns, berries, and other nourishments, to sustain your survival. However, you must also beware of other animals in the forest.
+
+Hungry Squirrel is a perfect game for both seasoned gamers and those new to the world of 3D gaming. The game offers a fun and immersive experience as you embark on a thrilling journey through the forest and fight to survive as a squirrel. We invite you to grab your controller and join us on this exciting adventure.
 
 
 ![IMAGE](github-readme-contents/banner-image.jpg)
