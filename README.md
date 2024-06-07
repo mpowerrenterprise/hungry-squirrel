@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Welcome to  Hungry Squirrel, a simple yet challenging 3D game that takes you on an adventure as a hungry squirrel is wandering for food to be survived, struggling to survive in the forest. The game is built using Unity, a widely-used game engine, and programmed with Unity's visual scripting tool, providing a seamless and engaging gaming experience.
+Welcome to  Hungry Squirrel, a simple yet challenging 3D game that takes you on an adventure as a hungry squirrel wanders for food to be survived, struggling to survive in the forest. The game is built using Unity, a widely-used game engine, and programmed with Unity's visual scripting tool, providing a seamless and engaging gaming experience.
 
-As the squirrel, you must navigate through the beautifully rendered forest environment in search of food, such as acorns, berries, and other nourishments, to sustain your survival. However, you must also beware of other animals in the forest.
+As the squirrel, you must navigate through the beautifully rendered forest environment for food, such as acorns, berries, and other nourishments, to sustain your survival. However, you must also beware of other animals in the forest.
 
-Hungry Squirrel is a perfect game for both seasoned gamers and those new to the world of 3D gaming. The game offers a fun and immersive experience as you embark on a thrilling journey through the forest and fight to survive as a squirrel. We invite you to grab your controller and join us on this exciting adventure.
+Hungry Squirrel is a perfect game for both seasoned gamers and those new to 3D gaming. The game offers a fun and immersive experience as you embark on a thrilling journey through the forest and fight to survive as a squirrel. We invite you to grab your controller and join us on this exciting adventure.
 
 
 ![IMAGE](github-readme-contents/banner-image.jpg)
@@ -33,15 +33,15 @@ hungry-squirrel\0-source
 
 ## Acknowledgement
 
-This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist.  [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me) played the supportive role in this project.
+This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist.  [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me) played a supportive role in this project.
 
 
 ## Social Links
 
-* [Linkedin Profile](https://www.linkedin.com/in/gunarakulangunaretnam)
-* [Facebook Profile](https://www.facebook.com/gunarakulangunaratnam)
-* [Instagram Profile](https://www.instagram.com/gunarakulangunaretnam)
-* [Twitter Profile ](https://twitter.com/gunarakulangr)
-* [Kaggle Profile](https://www.kaggle.com/gunarakulangr)
-* [TikTok Profile](https://www.tiktok.com/@gunarakulangunaretnam)
-* [Youtube Profile](https://www.youtube.com/channel/UCMWkED5sabgVZSCKjZuRJXA)
+- [Linkedin](https://www.linkedin.com/in/gunarakulangunaretnam)
+- [Facebook](https://www.facebook.com/gunarakulangunaretnam)
+- [Instagram](https://www.instagram.com/gunarakulangunaretnam)
+- [Twitter](https://twitter.com/gunarakulangr)
+- [Kaggle](https://www.kaggle.com/gunarakulangr)
+- [TikTok](https://www.tiktok.com/@gunarakulangunaretnam)
+- [Youtube](https://www.youtube.com/channel/UCjMOdgHFAjAdBKiqV8y2Tww)
