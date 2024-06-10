@@ -1,4 +1,4 @@
-# HUNGRY SQUIRREL
+# Hungry Squirrel
 
 ## Introduction
 
@@ -36,7 +36,7 @@ hungry-squirrel\0-source
 This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist.  [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me) played a supportive role in this project.
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
