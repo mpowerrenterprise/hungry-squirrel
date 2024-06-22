@@ -33,7 +33,7 @@ hungry-squirrel\0-source
 
 ## Acknowledgement
 
-This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist.  [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me) played a supportive role in this project.
+This simple game was built by [Jason Bond](https://www.linkedin.com/in/jasonrtbond/), a professional game developer and AR/VR/MR Specialist, and [Gunarakulan Gunaretnam](https://www.linkedin.com/in/gunarakulangunaretnam/) (Me), is an interdisciplinary tech consultant who deeply engages in engineering, research, innovation, and entrepreneurship.
 
 
 # Contact
